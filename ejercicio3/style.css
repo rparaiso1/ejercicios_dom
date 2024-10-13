@@ -1,0 +1,46 @@
+.paises {
+  border: 1px solid;
+  border-color: aqua;
+  margin: 20px;
+}
+
+.paises,
+li {
+  list-style-type: none;
+  padding: 5px;
+}
+
+.coches {
+  border: 1px solid;
+  border-color: black;
+  margin: 20px;
+}
+
+.divImg {
+  border-bottom: 1px solid;
+  border-color: black;
+  align-items: center;
+  text-align: center;
+  margin: 5px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  padding: 1px;
+}
+
+.Boton {
+  width: auto;
+  height: auto;
+  padding: auto;
+  text-align: center;
+  display: flex;
+  margin: 10px auto;
+}
+
+.Bottondelete {
+  padding: auto;
+  display: flex;
+  margin: 10px auto;
+}

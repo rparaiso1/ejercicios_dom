@@ -1,0 +1,15 @@
+#btnToClick {
+  padding: auto;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.ulAlbum {
+  display: flex;
+}
+
+li {
+  list-style: none;
+  padding: auto;
+  margin: 0 auto;
+}
